@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OneDrive\\Dokumente\\Git\\snats\\lib_snats\\lib_snats.csproj",
+      "projectUniqueName": "C:\\Users\\julia_ps3fg4w\\Source\\Repos\\snats\\lib_snats\\lib_snats.csproj",
       "projectName": "lib_snats",
-      "projectPath": "E:\\OneDrive\\Dokumente\\Git\\snats\\lib_snats\\lib_snats.csproj",
+      "projectPath": "C:\\Users\\julia_ps3fg4w\\Source\\Repos\\snats\\lib_snats\\lib_snats.csproj",
       "packagesPath": "C:\\Users\\julia_ps3fg4w\\.nuget\\packages\\",
-      "outputPath": "E:\\OneDrive\\Dokumente\\Git\\snats\\lib_snats\\obj\\",
+      "outputPath": "C:\\Users\\julia_ps3fg4w\\Source\\Repos\\snats\\lib_snats\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
