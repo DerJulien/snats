@@ -1,14 +1,14 @@
-﻿namespace lib_snats
+﻿using System;
+using lib_snats.EntityWrapper;
+using lib_snats.Genetics;
+
+namespace lib_snats
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
-        }
-        public int Test()
-        {
-            return 5;
+            Entity En = new Entity();
         }
     }
 }
